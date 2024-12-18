@@ -1,0 +1,1 @@
+# GenerativeAI_projects_using_GOOGLE_gemini-2.0-exp_-Model
