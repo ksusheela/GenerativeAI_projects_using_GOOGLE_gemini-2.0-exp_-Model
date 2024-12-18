@@ -16,7 +16,7 @@ from IPython.display import display
 from IPython.display import Markdown
 
 
-os.environ["GEMINI_API_KEY"] = 'AIzaSyCjeeQfMzSul5-bD0BzbZbWojkt4vhXzuc'
+os.environ["GEMINI_API_KEY"] = ''
 genai.configure(api_key=os.environ["GEMINI_API_KEY"])
 
 ## Function to load OpenAI model and get respones
